@@ -83,25 +83,25 @@
     "logo": "/shannon.jpg"
   },
   {
-    "name": "Queen Radio2",
-    "url": "http://streams.radiobob.de/bob-queen/mp3-192/streams",
-    "logo": "/queen.jpg"
+    "name": "Gold",
+    "url": "http://ice-sov.musicradio.com/GoldMP3",
+    "logo": "/gold.jpg"
   },
   {
-    "name": "Capital Teesside2",
-    "url": "http://ice-sov.musicradio.com/CapitalTeessideMP3",
-    "logo": "/capital.jpg"
+    "name": "Smooth Chill",
+    "url": "http://icecast.thisisdax.com/SmoothChillMP3",
+    "logo": "/chill.jpg"
   },
   
   {
-    "name": "JFK Tower2",
-    "url": "http://s1-bos.liveatc.net/kjfk9_s",
-    "logo": "/jfk.jpg"
+    "name": "Angel Radio",
+    "url": "http://edge.clrmedia.co.uk/angel_hb",
+    "logo": "/angel.jpg"
   },
   {
-    "name": "Shannon Tower2",
-    "url": "http://s1.fmt2.liveatc.net/einn2",
-    "logo": "/shannon.jpg"
+    "name": "Bfbs Radio",
+    "url": "http://direct.sharp-stream.com/ssvcbfbs2.mp3",
+    "logo": "/bfbs.jpg"
   }
   
  
