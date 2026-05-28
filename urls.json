@@ -81,16 +81,7 @@
     "name": "Shannon Tower",
     "url": "http://s1.fmt2.liveatc.net/einn2",
     "logo": "/shannon.jpg"
-  },
-  {
-    "name": "Fleetwood Mac",
-    "url": "http://streaming.exclusive.radio/er/fleetwoodmachits/icecast.audio",
-    "logo": "/fleetwood.jpg"
   }
-  {
-    "name": "Queen Radio",
-    "url": "http://streams.radiobob.de/bob-queen/mp3-192/streams",
-    "logo": "/queen.jpg"
-  },
+  
  
 ]
