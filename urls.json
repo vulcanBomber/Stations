@@ -5,16 +5,27 @@
     "url": "http://media-ice.musicradio.com/LBCUKMP3Low",
     "logo": "/lbc.jpg"
   },
-  {
-    "name": "Queen Radio",
-    "url": "http://streams.radiobob.de/bob-queen/mp3-192/streams",
-    "logo": "/queen.jpg"
-  },
+   {
+    "name": "London Talk",
+    "url": "http://ec5.yesstreaming.net:2810/stream",
+    "logo": "/talk.jpg"
+  }
   {
     "name": "BBC World Service",
     "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
     "logo": "/bbc.jpg"
   },
+{
+    "name": "talksport",
+    "url": "http://radio.talksport.com/stream",
+    "logo": "/talksport.jpg"
+  },
+  {
+    "name": "talksport2",
+    "url": "http://radio.talksport.com/stream2",
+    "logo": "/talksport2.jpg"
+  },
+  
   {
     "name": "Britcom 1",
     "url": "http://65.21.202.84:8175/stream",
@@ -51,20 +62,16 @@
     "logo": "/fleetwood.jpg"
   },
   {
+    "name": "Queen Radio",
+    "url": "http://streams.radiobob.de/bob-queen/mp3-192/streams",
+    "logo": "/queen.jpg"
+  },
+  {
     "name": "Capital Teesside",
     "url": "http://ice-sov.musicradio.com/CapitalTeessideMP3",
     "logo": "/capital.jpg"
   },
-  {
-    "name": "talksport",
-    "url": "http://radio.talksport.com/stream",
-    "logo": "/talksport.jpg"
-  },
-  {
-    "name": "talksport2",
-    "url": "http://radio.talksport.com/stream2",
-    "logo": "/talksport2.jpg"
-  },
+  
   {
     "name": "JFK Tower",
     "url": "http://s1-bos.liveatc.net/kjfk9_s",
@@ -75,9 +82,5 @@
     "url": "http://s1.fmt2.liveatc.net/einn2",
     "logo": "/shannon.jpg"
   },
-  {
-    "name": "London Talk",
-    "url": "http://ec5.yesstreaming.net:2810/stream",
-    "logo": "/talk.jpg"
-  }
+ 
 ]
