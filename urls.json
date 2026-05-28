@@ -9,7 +9,7 @@
     "name": "London Talk",
     "url": "http://ec5.yesstreaming.net:2810/stream",
     "logo": "/talk.jpg"
-  }
+  },
   {
     "name": "BBC World Service",
     "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
@@ -81,6 +81,6 @@
     "name": "Shannon Tower",
     "url": "http://s1.fmt2.liveatc.net/einn2",
     "logo": "/shannon.jpg"
-  },
+  }
  
 ]
