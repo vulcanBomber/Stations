@@ -98,7 +98,9 @@
     "name": "Bfbs4 Radio",
     "url": "http://direct.sharp-stream.com/ssvcbfbs2.mp3",
     "logo": "/bfbs.jpg"
-  }
-  
+  },
+  { "name": "GB News",
+    "url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
+    "logo":"" 
  
 ]
