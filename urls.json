@@ -1,107 +1,130 @@
-
 [
   {
     "name": "LBC UK",
     "url": "http://media-ice.musicradio.com/LBCUKMP3Low",
-    "logo": "/lbc.jpg"
+    "logo": "/lbc.jpg",
+    "genre": "Talk & News"
   },
-   {
+  {
     "name": "London Talk",
     "url": "http://ec5.yesstreaming.net:2810/stream",
-    "logo": "/talk.jpg"
+    "logo": "/talk.jpg",
+    "genre": "Talk & News"
   },
   {
     "name": "BBC World Service",
     "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
-    "logo": "/bbc.jpg"
+    "logo": "/bbc.jpg",
+    "genre": "Talk & News"
   },
-{
+  {
+    "name": "GB News",
+    "url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
+    "logo": "/gbnews.jpg",
+    "genre": "Talk & News"
+  },
+
+  {
     "name": "TALKsport",
     "url": "http://radio.talksport.com/stream",
-    "logo": "/talksport.jpg"
+    "logo": "/talksport.jpg",
+    "genre": "Sports Talk"
   },
   {
     "name": "TALKsport2",
     "url": "http://radio.talksport.com/stream2",
-    "logo": "/talksport2.jpg"
+    "logo": "/talksport2.jpg",
+    "genre": "Sports Talk"
   },
-  
+
   {
     "name": "Britcom 1",
     "url": "http://65.21.202.84:8175/stream",
-    "logo": "/britcom1.jpg"
+    "logo": "/britcom1.jpg",
+    "genre": "British Comedy"
   },
   {
     "name": "Britcom 2",
     "url": "http://65.21.202.84:8022/stream",
-    "logo": "/britcom2.jpg"
+    "logo": "/britcom2.jpg",
+    "genre": "British Comedy"
   },
   {
     "name": "Britcom 3",
     "url": "http://65.21.202.84:8200/stream",
-    "logo": "/britcom3.jpg"
+    "logo": "/britcom3.jpg",
+    "genre": "British Comedy"
   },
+
   {
     "name": "Classic",
     "url": "http://ice-sov.musicradio.com/ClassicFMMP3",
-    "logo": "/classic.jpg"
+    "logo": "/classic.jpg",
+    "genre": "Classical"
   },
+
   {
     "name": "Abba",
     "url": "http://streaming.exclusive.radio/er/abba/icecast.audio",
-    "logo": "/abba.jpg"
+    "logo": "/abba.jpg",
+    "genre": "Artist Station"
   },
   {
     "name": "Cat Stevens",
     "url": "http://streaming.exclusive.radio/er/catstevens/icecast.audio",
-    "logo": "/cat.jpg"
+    "logo": "/cat.jpg",
+    "genre": "Artist Station"
   },
   {
     "name": "Fleetwood Mac",
     "url": "http://streaming.exclusive.radio/er/fleetwoodmachits/icecast.audio",
-    "logo": "/fleetwood.jpg"
+    "logo": "/fleetwood.jpg",
+    "genre": "Artist Station"
   },
   {
     "name": "Queen Radio",
     "url": "http://streams.radiobob.de/bob-queen/mp3-192/streams",
-    "logo": "/queen1.jpg"
+    "logo": "/queen1.jpg",
+    "genre": "Artist Station"
   },
+
   {
     "name": "Capital Teesside",
     "url": "http://ice-sov.musicradio.com/CapitalTeessideMP3",
-    "logo": "/capital.jpg"
-  },
-  
-  {
-    "name": "JFK Tower",
-    "url": "http://s1-bos.liveatc.net/kjfk9_s",
-    "logo": "/jfk.jpg"
-  },
-  {
-    "name": "Shannon Tower",
-    "url": "http://s1.fmt2.liveatc.net/einn2",
-    "logo": "/shannon.jpg"
+    "logo": "/capital.jpg",
+    "genre": "Pop / Hits / Gold / Chill"
   },
   {
     "name": "Gold",
     "url": "http://ice-sov.musicradio.com/GoldMP3",
-    "logo": "/gold.jpg"
+    "logo": "/gold.jpg",
+    "genre": "Pop / Hits / Gold / Chill"
   },
   {
     "name": "Smooth Chill",
     "url": "http://icecast.thisisdax.com/SmoothChillMP3",
-    "logo": "/chill.jpg"
+    "logo": "/chill.jpg",
+    "genre": "Pop / Hits / Gold / Chill"
   },
-  
+
+  {
+    "name": "JFK Tower",
+    "url": "http://s1-bos.liveatc.net/kjfk9_s",
+    "logo": "/jfk.jpg",
+    "genre": "Aviation / ATC"
+  },
+  {
+    "name": "Shannon Tower",
+    "url": "http://s1.fmt2.liveatc.net/einn2",
+    "logo": "/shannon.jpg",
+    "genre": "Aviation / ATC"
+  },
 
   {
     "name": "Bfbs4 Radio",
     "url": "http://direct.sharp-stream.com/ssvcbfbs2.mp3",
-    "logo": "/bfbs.jpg"
-  },
-  { "name": "GB News",
-    "url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
-    "logo":"/gbnews.jpg"
-    }
- 
+    "logo": "/bfbs.jpg",
+    "genre": "Military / Forces"
+  }
 ]
+
