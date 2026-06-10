@@ -106,6 +106,12 @@
     "logo": "/chill.jpg",
     "genre": "Pop / Hits / Gold / Chill"
   },
+  {
+    "name": "KISS FM",
+    "url": "http://live-kiss.sharp-stream.com/kiss100.mp3",
+    "logo": "/kiss.jpg",
+    "genre": "Rock"
+  },
 
   {
     "name": "JFK Tower",
