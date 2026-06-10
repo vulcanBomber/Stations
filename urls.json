@@ -101,7 +101,7 @@
   },
   { "name": "GB News",
     "url": "http://listen-gbnews.sharp-stream.com/gbnews.mp3",
-    "logo":"" 
+    "logo":"/gbnews.jpg"
     }
  
 ]
