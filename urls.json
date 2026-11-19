@@ -111,6 +111,12 @@
     "url": "http://live-kiss.sharp-stream.com/kiss100.mp3",
     "logo": "/kiss.jpg",
     "genre": "Rock"
+  },
+  {
+    "name": "NPR",
+    "url": "http://nossl.fmstream.org/index.php?s=news+talk",
+    "logo": "",
+    "genre": "News"
   }
   
 
