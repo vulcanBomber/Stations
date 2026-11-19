@@ -111,26 +111,9 @@
     "url": "http://live-kiss.sharp-stream.com/kiss100.mp3",
     "logo": "/kiss.jpg",
     "genre": "Rock"
-  },
-
-  {
-    "name": "JFK Tower",
-    "url": "http://s1-bos.liveatc.net/kjfk9_s",
-    "logo": "/jfk.jpg",
-    "genre": "Aviation / ATC"
-  },
-  {
-    "name": "Shannon Tower",
-    "url": "http://s1.fmt2.liveatc.net/einn2",
-    "logo": "/shannon.jpg",
-    "genre": "Aviation / ATC"
-  },
-
-  {
-    "name": "Bfbs Radio",
-    "url": "http://direct.sharp-stream.com/ssvcbfbs2.mp3",
-    "logo": "/bfbs.jpg",
-    "genre": "Military / Forces"
   }
+  
+
+ 
 ]
 
