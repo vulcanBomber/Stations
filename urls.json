@@ -26,13 +26,13 @@
 
   {
     "name": "TALKsport",
-    "url": "http://radio.talksport.com/stream",
+    "url": "https://radio.talksport.com/stream",
     "logo": "/talksport.jpg",
     "genre": "Sports Talk"
   },
   {
     "name": "TALKsport2",
-    "url": "http://radio.talksport.com/stream2",
+    "url": "https://radio.talksport.com/stream2",
     "logo": "/talksport2.jpg",
     "genre": "Sports Talk"
   },
