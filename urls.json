@@ -114,7 +114,7 @@
   },
   {
     "name": "NPR",
-    "url": "http://nossl.fmstream.org/index.php?s=news+talk",
+    "url": "https://npr-ice.streamguys1.com/live.aac",
     "logo": "",
     "genre": "News"
   }
